@@ -8,11 +8,11 @@ As salaam o Alaikum (Peace be upon you) ! Thank you for taking interest in knowi
 
 I am
 
-## 🎲 Passionate Problem Solver.
+### 🎲 Passionate Problem Solver.
 
-## 👨‍💻 Full stack developer.
+### 👨‍💻 Full stack developer.
 
-## 🕌 Muslim.
+### 🕌 Muslim.
 
 _Here are the tools I use/work with._
 
