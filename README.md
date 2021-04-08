@@ -1,11 +1,11 @@
-#Hi there 👋#
+# Hi there 👋 #
 
 As salaam o Alaikum (Peace be upon you) ! Thank you for taking interest in knowing me.
 
 I am
-##🎲 Passionate Problem Solver.##
-##👨‍💻 Full stack developer.##
-##🕌 Muslim.##
+## 🎲 Passionate Problem Solver. ##
+## 👨‍💻 Full stack developer. ##
+## 🕌 Muslim. ##
 
 _Here are the tools I use/work with._
 
