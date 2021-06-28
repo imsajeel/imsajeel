@@ -4,7 +4,7 @@
 
 <!-- [![Laptop Badge](https://img.shields.io/badge/-Portfolio-red?style=for-the-badge&logoColor=white&link=https://www.sajeelaalam.com)](https://www.sajeelaalam.com) -->
 
-As salaam o Alaikum (Peace be upon you) ! Thank you for taking interest in knowing me.
+Hello! Thank you for taking interest in knowing me.
 
 I am
 
