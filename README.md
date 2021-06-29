@@ -2,6 +2,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imsajeel)](https://www.linkedin.com/in/imsajeel)
 
+[![Laptop Badge](https://img.shields.io/badge/-Portfolio-red?style=for-the-badge&logoColor=white&link=https://portfolio-sajeel.surge.sh)](https://portfolio-sajeel.surge.sh)
+
 <!-- [![Laptop Badge](https://img.shields.io/badge/-Portfolio-red?style=for-the-badge&logoColor=white&link=https://www.sajeelaalam.com)](https://www.sajeelaalam.com) -->
 
 Hello! Thank you for taking interest in knowing me.
